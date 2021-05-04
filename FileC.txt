@@ -1,1 +1,1 @@
-This is File C -- update 1 -- on feature -- 3 way merge --squash
+This is File C -- update 1 -- on feature -- 3 way merge --squash on feature github
