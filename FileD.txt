@@ -1,1 +1,2 @@
-This is File D -- on feature --- 3way merge on master -- squash
+This is File D -- on feature -- 3 way merge -- sqauash
+

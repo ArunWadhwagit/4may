@@ -1,1 +1,2 @@
-This is File C -- update 1 -- on feature -- on master -- squash
+This is File C -- update 1 -- on feature -- 3 way merge --squash
+
